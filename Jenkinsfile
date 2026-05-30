@@ -9,7 +9,7 @@ pipeline {
 
         stage('Checkout') {
             steps {
-                echo 'Checkout Stage'
+                echo 'Checkout Stage Modified'
             }
         }
 
